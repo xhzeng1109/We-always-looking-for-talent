@@ -35,12 +35,13 @@ AfterShip是快递查询行业的全球龙头，客户有Amazon, Wish, eBay, Pay
 ## 我们要找的人
 
 我们是一群热爱编程的代码农,但我们不是代码奴！
+
 我们为写的代码负责，对代码质素有要求，由代码风格开始，测试，编写技术文档，一丝不苟。 我们注重自动化，使用自动化测试，持续集成与持续交付提升生产力。
- 
+
 我们使用 New Relic 作系统监测、Pingdom, Pagerduty 报警、Cloudflare CDN 加速、Twilio发 SMS、 Sendgrid 发邮件、1Password 管理密码、Zoom 视象会议、还有很多很多的工具。
- 
+
 我们为 AfterShip 公司自豪，是因为 AfterShip 对员工的重视，人才永远放在第一，为员工负责， 不断推动我们学习，提升技能。
- 
+
 我们大量使用开源软件,因为我们深信分享是最伟大的。 我们願意贡献我们有用的,把好的东西跟全世界分享。
 
 我们使用的 SaaS 工具: https://github.com/AfterShip/SaaS
@@ -50,7 +51,7 @@ AfterShip是快递查询行业的全球龙头，客户有Amazon, Wish, eBay, Pay
 自动格式化全球电话号码: https://github.com/AfterShip/phone
 
 Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
- 
+
 如果你的想法跟我们一样,欢迎加入我们这支精小而灵活的公司!
  
 ## 我们的福利待遇
