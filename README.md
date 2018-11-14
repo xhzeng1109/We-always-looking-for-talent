@@ -2,7 +2,8 @@
 AfterShip.stacks = ['Node.js', 'React.js', 'Python', 'PHP', 'AWS', 'GCP', 'K8s','Docker', 'Serverless', 'NoSQL'];
 if (you.passions.includes('coding')) {
  switch(you.role) {
-   case 'geek':
+ 
+ case 'geek':
    case 'gatekeeper_of_gatekeepers':
    case 'red_or_blue_pill':
      console.log('join us AfterShip =]');
