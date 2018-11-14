@@ -21,22 +21,34 @@ AfterShip是快递查询行业的全球龙头，客户有Amazon, Wish, eBay, Pay
 我们为 AfterShip 公司自豪，是因为 AfterShip 对员工的重视，人才永远放在第一，为员工负责， 不断推动我们学习，提升技能。
  
 我们大量使用开源软件,因为我们深信分享是最伟大的。 我们願意贡献我们有用的,把好的东西跟全世界分享。
- 
+
 我们使用的 SaaS 工具: https://github.com/AfterShip/SaaS
+
 我们的代码风格: https://github.com/AfterShip/eslint-config-aftership
+
 自动格式化全球电话号码: https://github.com/AfterShip/phone
+
 Koa middleware for New Relic: https://github.com/AfterShip/koa-newrelic
  
 如果你的想法跟我们一样,欢迎加入我们这支精小而灵活的公司!
  
 ## 我们的福利待遇
 1、当月工资当月发放
+
 2、2-6个月的工资作为年终奖
+
 3、全额工资购买五险一金
+
 4、带薪病假、带薪年假（入职即可享有5天带薪年假）
+
 5、入职提供最新型号之 Apple 15” MacBook Pro, LG真4K显示器27UK850
+
 6、办公室零食不间断、每天下午茶
+
 7、关注员工成长，购买书籍、在线课程均可报销（不限类别）
+
 8、每年定期体检及其他健康检查
+
 9、每年不定期外出旅游
+
 10、任意挑选使用各种付费工具，如JetBrains IDE, Newrelic, Pingdom, 你想得出，只要可以帮助工作做好，公司绝对愿意支持!
